@@ -1,0 +1,94 @@
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+G:\Users\lab\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Users\lab\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\database1.accdb
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\database1.accdb
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SJU\Desktop\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\database1.accdb
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\PHD\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\database1.accdb
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\Master\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\database1.accdb
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\張育丞\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+C:\Users\張育丞\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\張育丞\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\張育丞\Desktop\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.ResolveComReference.cache
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\database1.accdb
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\高中時期\電能插座\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\yu.cheng\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbprojAssemblyReference.cache
+C:\Users\yu.cheng\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\yu.cheng\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\yu.cheng\Desktop\(電力插座)變異數分析\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
